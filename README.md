@@ -2,7 +2,7 @@
   <img src="logo.ico" alt="Logo" width="128" height="128" />
 </p>
 
-<h1 align="center">Название Проекта</h1>
+<h1 align="center">Lexic-crack</h1>
 
 <p align="center">
   <strong>Простой, открытый и бесплатный инструмент для управления профилями.</strong>
