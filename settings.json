@@ -1,0 +1,21 @@
+{
+    "overlay_hotkey": "F9",
+    "active_profile": "УК + ПК + ДК",
+    "theme": "toxic_green",
+    "overlay_search_enabled": true,
+    "overlay_pinned_enabled": true,
+    "overlay_tips_enabled": true,
+    "custom_tip": "Памятка патрульного:\n1. Соблюдайте процессуальный кодекс.\n2. Зачитывайте правила Миранды.\n3. Сверяйте статьи с базой данных.",
+    "binds": [],
+    "binder_overlay_enabled": true,
+    "binder_enabled": false,
+    "target_process": "",
+    "binder_overlay_pos": {
+        "x": 50,
+        "y": 50
+    },
+    "discord_token": "",
+    "auth_hash": "",
+    "discord_username": "Cracked By OwnedMe & Bolk",
+    "eula_accepted": true
+}
